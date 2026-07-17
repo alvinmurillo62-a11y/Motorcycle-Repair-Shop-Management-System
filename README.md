@@ -16,3 +16,107 @@ Many small motorcycle repair shops still use notebooks or paper to record custom
 | -------- | ---------------------------- |
 | Member 1 | Repo Lead & Builder          |
 | Member 2 | Board Lead, Scribe & Builder |
+
+## Objectives
+
+- Manage customer records.
+- Store motorcycle information.
+- Record repair jobs and service history.
+- Track spare parts inventory.
+- Generate customer bills.
+- Record payments.
+- Improve shop efficiency.
+
+---
+
+## Features
+
+### Customer Management
+- Add Customer
+- Edit Customer
+- Delete Customer
+- View Customer
+
+### Motorcycle Management
+- Register Motorcycle
+- Update Motorcycle Details
+- Delete Motorcycle Record
+- Search Motorcycle
+
+### Repair Job Management
+- Create Repair Job
+- Assign Mechanic
+- Update Repair Status
+- View Repair History
+
+### Parts Inventory
+- Add Parts
+- Update Stock
+- Delete Parts
+- View Inventory
+
+### Billing & Payment
+- Generate Bill
+- Record Payment
+- View Payment History
+
+---
+
+## Record Types
+
+- Customer
+- Motorcycle
+- Repair Job
+- Parts Inventory
+- Payment
+
+---
+
+## Users
+
+### Admin
+- Manage all records
+- Generate reports
+- Manage inventory
+
+### Staff
+- Register customers
+- Create repair jobs
+- Record payments
+
+### Mechanic
+- View assigned repair jobs
+- Update repair status
+
+---
+
+## Technologies
+
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP
+- Database: MySQL
+- Version Control: Git & GitHub
+
+---
+
+## System Workflow
+
+1. Register Customer
+2. Register Motorcycle
+3. Create Repair Job
+4. Assign Mechanic
+5. Update Repair Status
+6. Record Parts Used
+7. Generate Bill
+8. Record Payment
+9. Save Repair History
+
+---
+
+## Future Enhancements
+
+- SMS Notification
+- Email Notification
+- QR Code Repair Tracking
+- Online Appointment Scheduling
+- Dashboard Analytics
