@@ -9,3 +9,7 @@ Many small motorcycle repair shops still use notebooks or paper to record custom
 2. Motorcycles
 3. Repair Jobs
 4. Payments
+
+## Team Members
+1. Alvin Murillo
+2. John Angelo Cabatingan
