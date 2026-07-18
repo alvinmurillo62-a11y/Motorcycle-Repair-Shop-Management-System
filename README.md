@@ -17,6 +17,16 @@ Many small motorcycle repair shops still use notebooks or paper to record custom
 | Member 1 | Repo Lead & Builder          |
 | Member 2 | Board Lead, Scribe & Builder |
 
+| Module                    | Create                 | Read                             | Update                                  | Delete                                       |
+| ------------------------- | ---------------------- | -------------------------------- | --------------------------------------- | -------------------------------------------- |
+| **Customer Management**   | Add new customer       | View customer details            | Edit customer information               | Delete customer record                       |
+| **Motorcycle Management** | Register motorcycle    | View motorcycle details          | Update motorcycle information           | Delete motorcycle record                     |
+| **Repair Job Management** | Create repair job      | View repair details/history      | Update repair status or service details | Delete repair record                         |
+| **Mechanic Management**   | Add mechanic           | View mechanic information        | Edit mechanic details                   | Delete mechanic record                       |
+| **Parts Inventory**       | Add spare parts        | View available parts             | Update stock, price, or details         | Remove part from inventory                   |
+| **Billing & Payment**     | Create invoice/payment | View billing and payment history | Update payment status or invoice        | Delete billing/payment record (if necessary) |
+
+
 ## Objectives
 
 - Manage customer records.
