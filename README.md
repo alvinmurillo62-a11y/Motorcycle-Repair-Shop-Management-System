@@ -12,10 +12,10 @@ Many small motorcycle repair shops still use notebooks or paper to record custom
 4. Payments
 
 ## Team Members
-| Member   | Role                         |
-| -------- | ---------------------------- |
-| Member 1 | Repo Lead & Builder          |
-| Member 2 | Board Lead, Scribe & Builder |
+| Member        | Role                         |
+| ------------- | ---------------------------- |
+| Alvin Murillo | Repo Lead & Builder          |
+| John Angelo   | Board Lead, Scribe & Builder |
 
 | Module                    | Create                 | Read                             | Update                                  | Delete                                       |
 | ------------------------- | ---------------------- | -------------------------------- | --------------------------------------- | -------------------------------------------- |
