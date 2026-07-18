@@ -1,6 +1,6 @@
  ## Motorcycle Repair Shop Management System WireFrame
 
-## login
+## LOGIN
 ---------------------------------------
  Motorcycle Repair Shop Management System
 
@@ -12,7 +12,7 @@
 
 ---------------------------------------
 
-## dashboard
+## DASHBOARD
 ----------------------------------------------------
 LOGO
 
@@ -33,7 +33,7 @@ Summary
 Total Customers: 25
 Pending Repairs: 8
 
-## customer management
+## CUSTOMER MANAGEMENT
 ----------------------------------------------------
 Customers
 
@@ -47,7 +47,7 @@ Search: _______________
 | 1  | Juan | 0912... | Dipolog | Edit Delete |
 ----------------------------------------------------
 
-## motocycle management
+## MOTORCYCLE MANAGEMENT
 ----------------------------------------------------
 Motorcycles
 
@@ -57,7 +57,7 @@ Motorcycles
 | Plate No | Brand | Model | Owner | Action |
 ----------------------------------------------------
 
-## repair job
+## REPAIR JOB
 
 ----------------------------------------------------
 Repair Jobs
@@ -74,7 +74,7 @@ Status:
 
 ----------------------------------------------------
 
-## mechanic management
+## MECHANIC MANAGEMENT
 ----------------------------------------------------
 Mechanics
 
@@ -84,7 +84,7 @@ Mechanics
 | Name | Contact | Specialization | Action |
 ----------------------------------------------------
 
-## parts inventory
+## PARTS INVENTORY
 ----------------------------------------------------
 Inventory
 
@@ -94,7 +94,7 @@ Inventory
 | Part Name | Stock | Price | Action |
 ----------------------------------------------------
 
-## billing
+## BILLING
 ----------------------------------------------------
 Invoice
 
@@ -106,7 +106,7 @@ Total:
 [ Generate Invoice ]
 ----------------------------------------------------
 
-## payment
+## PAYMENT
 ----------------------------------------------------
 Payment
 
@@ -117,7 +117,7 @@ Payment Method:
 [ Save Payment ]
 ----------------------------------------------------
 
-## reports
+## REPORTS
 ----------------------------------------------------
 Reports
 
